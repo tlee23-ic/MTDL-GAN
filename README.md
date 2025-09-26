@@ -1,6 +1,8 @@
+
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d60e3b4b-5f94-456a-a2dc-39496a7c6c2f", width = "90%" alt="MTDLGAN_workflow>
+    <img src="https://github.com/user-attachments/assets/d60e3b4b-5f94-456a-a2dc-39496a7c6c2f", width = "90%" alt="MTDLGAN_workflow">
 </p>
+
 
 MTDL-GAN is a CycleGAN based model that generates multi-target directed ligands (MTDL) from unpaired sets of inhibitor libraries of Alzheimer's disease target enzymes.
 
