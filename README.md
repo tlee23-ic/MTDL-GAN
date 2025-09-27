@@ -18,8 +18,8 @@ MTDL-GAN training and molecular structure generation code to generate MTDL-like 
 
 
 
-#### MTDL-GAN models, Data, Molecular Docking and Structure-based similarity searching results available
-
+### Model, Data, Experimental results
+MTDL-GAN models, Data, Molecular Docking and Structure-based similarity searching results available at
 Zenodo link: https://zenodo.org/records/17206857
 
 The Zip file contains
