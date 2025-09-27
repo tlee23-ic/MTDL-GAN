@@ -4,11 +4,23 @@
 </p>
 
 
-MTDL-GAN is a CycleGAN based model that generates multi-target directed ligands (MTDL) from unpaired sets of inhibitor libraries of Alzheimer's disease target enzymes.
+MTDL-GAN is a CycleGAN based model that generates multi-target directed ligands (MTDLs) from unpaired sets of inhibitor libraries. Our targets of interest are acetylcholinesterase (AChE), beta-secretase 1 (BACE1), and glycogen synthase kinase 3 beta (GSK3), which are known to have significant impacts on the progression and development of AD, each with a different mechanism of action. Inhibitor libraries were curated from ChEMBL27 and further characterized to represent each inhibitor domain, resulting in 69 AChE, 572 BACE1, and 246 GSK3 inhibitors. The MTDL-GAN was trained on these unpaired datasets to generate MTDL-like molecules.
 
-#### MTDL-GAN models, structure-based similarity searching and molecular docking simulation results are available for scientific research and drug discovery
+### Code
+All codes are available for reproducibility
 
-Zenodo link: 
+#### MTDLGAN_GB.ipynb
+MTDL-GAN training and molecular structure generation code to generate MTDL-like molecules that inhibit GSK3 and BACE1 enzymes.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/c857eb41-b381-41d9-8bfa-6c24df9227a8", width = "90%" alt="MTDLGAN_workflow">
+</p>
+
+
+
+#### MTDL-GAN models, Data, Molecular Docking and Structure-based similarity searching results available
+
+Zenodo link: https://zenodo.org/records/17206857
 
 The Zip file contains
 
@@ -22,7 +34,7 @@ Preprocessed original inhibitor (AChE, BACE1, GSK3) molecules
 
 - generated_moldecules)
 
-generated molecular structures from AB, AG, GB MTDL-GAN
+generated MTDL-like molecular structures from AB, AG, GB MTDL-GAN
 
 XX_topsim_pool_500.csv -> raw data from the model
 
