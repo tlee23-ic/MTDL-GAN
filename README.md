@@ -80,7 +80,7 @@ Interval Random Sampling, Molecular Docking, Physicochemical Property Results
     <img width="90%" alt="Interval_sampling" src="https://github.com/user-attachments/assets/48b970ae-e141-4577-8dde-ad29ecf2681a">
 </p>
 <p align="center">
-<img width="90%" alt="docking" src="https://github.com/user-attachments/assets/39f0e527-bfcd-4570-9268-9c319d7523b9">
+<img width="60%" alt="docking" src="https://github.com/user-attachments/assets/39f0e527-bfcd-4570-9268-9c319d7523b9">
 </p>
 
 
