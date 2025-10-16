@@ -23,6 +23,14 @@ MTDL-GAN training and molecular structure generation code to generate MTDL-like 
     <img src="https://github.com/user-attachments/assets/c857eb41-b381-41d9-8bfa-6c24df9227a8", width = "90%" alt="MTDLGAN_workflow">
 </p>
 
+#### Similarity_searching.ipynb
+
+Similarity searching of the generated molecules in ChEMBL (1.9M molecules) and ExCAPE (1.3M molecules) database.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0fd4347b-2656-4fa8-8bc9-e1d169ad69cb" alt="ChEMBL 27 similarity" width="49%" />
+  <img src="https://github.com/user-attachments/assets/a973eed8-f69d-4ae2-8c38-b4b48dac50f7" alt="ExCAPE similarity" width="49%" />
+</p>
 
 
 
