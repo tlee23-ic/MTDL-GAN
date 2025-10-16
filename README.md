@@ -9,12 +9,20 @@ MTDL-GAN is a CycleGAN based model that generates multi-target directed ligands 
 ### Code
 All codes are available for reproducibility
 
+#### TSNE.ipynb
+t-SNE visualisation of reference inhibitors across different stages of domain characterisation method
+
+<p align="center">
+    <img width = "90%" alt="TSNE_highres" src="https://github.com/user-attachments/assets/d0932416-bc8c-4826-887d-594f8f637737">
+</p>
+
 #### MTDLGAN_GB.ipynb
 MTDL-GAN training and molecular structure generation code to generate MTDL-like molecules that inhibit GSK3 and BACE1 enzymes.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/c857eb41-b381-41d9-8bfa-6c24df9227a8", width = "90%" alt="MTDLGAN_workflow">
 </p>
+
 
 
 
